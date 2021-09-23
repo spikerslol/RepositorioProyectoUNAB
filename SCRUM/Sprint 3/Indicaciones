@@ -1,0 +1,13 @@
+Sprint 3
+1. El Scrum Master crea una carpeta en el repositorio llamada Sprint3.
+2. Cada integrante debe realizar el Diagrama de casos de uso general y específico para cada una de las funcionalidades asignadas en el Sprint 2, teniendo en cuenta los requerimientos funcionales y no funcionales que se hicieron. Utilizar el programa día para ello.
+http://dia-installer.de/index.html.es
+3. Descargar el software Balsamiq Mockups 3 (La versión que dice .exe) e instalarlo
+https://balsamiq.com/wireframes/desktop/archives/?prefix=Mockups/Mockups-3/
+4. Según la funcionalidad asignada en el Sprint 2, la persona debe realizar en el software
+Balsamiq Mockups 3, todas las plantillas que tendrá su funcionalidad de acuerdo al diagrama de casos de uso y requerimientos funcionales y no funciones.
+5. Crear dentro de la carpeta que tiene su nombre dos carpetas, una que diga diagramas UML y otra carpeta Balsamiq, dentro de cada una colocar los archivo que se crearon.
+6. Subir al repositorio GitHub creado por el Scrum Master la carpeta con su nombre y sus subcarpetas que están dentro. Cada integrante hace el proceso por aparte de conexión y el git push para subir la carpeta a repositorio.
+7. Fin del Sprint.
+¿Que se entrega?
+1. Documento .txt con el enlace del video donde se grabó la reunión, dirección del repositorio y lista de nombres completos del equipo de trabajo.
