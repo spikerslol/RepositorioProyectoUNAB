@@ -1,0 +1,4 @@
+Nombre: Luis Alejandro Pulido Gonzalez
+Rol: Diseñador
+Grupo: 13
+Función: Gestión de Usuarios
